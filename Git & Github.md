@@ -11,7 +11,7 @@ Pull: Fetching and merging changes from a remote repository
 Push: Uploading local changes to a remote repository
 
 Essential Git Commands
-git init                    # Initialize a new repository
+git init                   # Initialize a new repository
 git add <file>             # Stage files for commit
 git commit -m "message"    # Create a commit with a message
 git status                 # Check repository status
